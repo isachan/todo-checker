@@ -37,7 +37,7 @@ An example of a negative test case would be
 `//TODOOOOOOO`
 `//TO DO`
 
-## CONSIDERATIONS
+## Considerations
 
 For this assignment, I have only considered files that are written in JS. Files written in other languages (eg. Python/Ruby etc) are not considered within this scope.
 
