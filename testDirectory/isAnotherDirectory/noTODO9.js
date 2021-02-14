@@ -1,0 +1,3 @@
+// ALL WILL NOT  WORK ('TODO' AS VARIABLE /  .PROPERTY ACCESS (EG. TODO.LENGTH) )
+let TODO = 'stuff';
+let l = TODO.length;
